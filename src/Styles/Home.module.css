@@ -1,0 +1,19 @@
+.box
+{
+    width:40%;
+    height:80vh;
+    margin: auto;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box Button{
+ padding:30px 40px;
+ font-size: 20px;
+}
+.text
+{
+    font-size: 30px;
+    font-weight: 700;
+}
